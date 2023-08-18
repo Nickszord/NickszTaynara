@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&display=swap');
+
+
+
+h1{
+    color:aliceblue;
+    font-family: 'Barriecito', cursive;
+
+    
+    
+}
+
+h2{
+
+    color:aliceblue
+    
+}
+
+h3{
+
+    color:aliceblue;
+    font-family: 'Barriecito', cursive;
+    
+}
+
+h4{
+
+    color:aliceblue
+    
+}
+
+
+p{
+
+    color:aliceblue
+}
+
+img{
+    width: 50%;
+    height: 50%;
+}
+
+body{
+
+    background-color: rgb(56, 56, 65);
+}
+
+.preparo{
+    max-width: 50%;
+
+}
+
+li{
+    color: aliceblue;
+    text-align: left;
+}
